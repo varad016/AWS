@@ -1,0 +1,4 @@
+EC2 
+launched a static website- got a Ip address,
+problem : but it changes after each time the instance is start/stopped...
+solution : using elastic Ip ; it does not changes, aws charges for it though..
