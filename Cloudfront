@@ -1,0 +1,10 @@
+What is cloudfront?
+
+lets just say for it acts as middle ground while hosting site using S3.
+because the one thing i notice while hosting site using S3 - the URL is litrally exposing all the details like the server location 
+
+also S3 is hosted in particular region and to make it global we use cloudfront..
+
+user -> cloudfront -> S3
+
+We use CloudFront in front of S3 to enable HTTPS, global caching, and improved performance while reducing direct S3 exposure
