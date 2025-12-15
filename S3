@@ -1,0 +1,8 @@
+So what is S3?
+
+it is used to store data and run static pages..
+till now we runned our static site using ec2 and it is not made to do that job, in the static site theere is no backend and static site can also be runned on s3 which will save money...
+
+s3 will run the static site and will also cost effective.
+
+Hosting static content on EC2 leads to underutilized compute resources and higher costs. S3 is more cost-effective and scalable for static websites.
