@@ -1,3 +1,6 @@
 what is exactly lambda?
 
 it is use to do backend stuff without using server like we do in ec2
+
+Lambda does not care about HTTP.
+API Gateway translates HTTP → JSON event.
