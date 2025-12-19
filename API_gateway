@@ -1,3 +1,5 @@
 why??
 
 to connect multiple services
+API Gateway takes an HTTP request and converts it into a Python dictionary (event) for Lambda
+HTTP(website)-> req -> py directory
