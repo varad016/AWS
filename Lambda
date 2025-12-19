@@ -2,5 +2,25 @@ what is exactly lambda?
 
 it is use to do backend stuff without using server like we do in ec2
 
+it runs only when triggred
+
 Lambda does not care about HTTP.
 API Gateway translates HTTP → JSON event.
+
+It works like:
+
+Trigger happens
+→ AWS starts your function
+→ Your code runs
+→ Returns something
+→ AWS shuts it down
+
+What's an event?
+consider it as a input
+
+whats context?
+it contains things like:
+Function name
+Memory
+Timeout
+Request ID
