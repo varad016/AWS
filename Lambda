@@ -24,3 +24,7 @@ Function name
 Memory
 Timeout
 Request ID
+
+event  → input
+print  → logs
+return → output
