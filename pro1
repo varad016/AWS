@@ -1,0 +1,6 @@
+created a serverless form using multiple services:
+
+s3 : to store the html index file -> frontend -> opens in http format
+lambda : for backend purpose
+api gateway : to connect the services 
+DynamoDB: to store database
