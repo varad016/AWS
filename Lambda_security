@@ -1,0 +1,1 @@
+Passwords are used for authentication, while tokens are issued after authentication and are used for authorization on subsequent requests
